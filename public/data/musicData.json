@@ -1,0 +1,27 @@
+{
+  "musicData": [{
+    "title": "我要你",
+    "artist": "老狼",
+    "src": "http://www.170mv.com/kw/antiserver.kuwo.cn/anti.s?rid=MUSIC_22837369&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3",
+    "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570383101587&di=c50a23be0877b79cf5f2e05b35a6e932&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170901%2Fab0278194e62434eb798f9862c6e79f5.jpeg",
+    "lrc": "lrc/我要你.lrc"
+  }, {
+    "title": "成都",
+    "artist": "赵雷",
+    "src": "https://sharefs.yun.kugou.com/202004281604/34942747ccebf54e171829911e5fef6f/G085/M04/04/19/lQ0DAFh_OnOAEvaeAFAaxR3PVO4400.mp3",
+    "pic": "http://p4.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
+    "lrc": "lrc/成都-赵雷.lrc"
+  }, {
+    "title": "假如爱有天意",
+    "artist": "李健",
+    "src": "https://sharefs.yun.kugou.com/202004281601/b2be999427bc8265feff42e9541219e3/G055/M02/1D/07/14YBAFbhKNaATZLSAEokW28ke_4306.mp3",
+    "pic": "http://p2.music.126.net/DprdNIWpRWYZJak4Q-cS-Q==/2891715582273535.jpg?param=300x300",
+    "lrc": "lrc/假如爱有天意.lrc"
+  }, {
+    "title": "十年",
+    "artist": "陈奕迅",
+    "src": "http://www.170mv.com/kw/antiserver.kuwo.cn/anti.s?rid=MUSIC_80403&response=res&format=mp3|aac&type=convert_url&br=128kmp3&agent=iPhone&callback=getlink&jpcallback=getlink.mp3",
+    "pic": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3825361386,3954933951&fm=58",
+    "lrc": "lrc/十年.lrc"
+  }]
+}
