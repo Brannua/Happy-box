@@ -1,6 +1,6 @@
 <template>
   <div class="header" :style="{background:curColor}">
-    <span class="header-home" @click="$router.go(-1)" v-show="ShowReturn">&lt;返回</span>
+    <span class="header-home" @click="$router.go(-1)" v-if="ShowReturn">&lt;返回</span>
     <h2 class="header-title">{{ curTitle }}</h2>
   </div>
 </template>
